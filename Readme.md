@@ -18,4 +18,4 @@ The objective of this project is to predict the points scored by a sports team i
 * Create a virtual environment and install the the required libraries using the command pip install -r requirements.txt
 * To run the modular code run Engine.py file. 
 * You can chnage the degree of polynomial as per the requirement. 
-* Tested on Python 3.8.10
+* Tested on Python 3.8.10# Polynomial_regression_NBA_Dataset
